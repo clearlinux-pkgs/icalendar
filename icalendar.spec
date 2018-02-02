@@ -4,7 +4,7 @@
 #
 Name     : icalendar
 Version  : 3.11.7
-Release  : 7
+Release  : 8
 URL      : http://pypi.debian.net/icalendar/icalendar-3.11.7.tar.gz
 Source0  : http://pypi.debian.net/icalendar/icalendar-3.11.7.tar.gz
 Summary  : iCalendar parser/generator
