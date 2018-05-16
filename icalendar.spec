@@ -4,7 +4,7 @@
 #
 Name     : icalendar
 Version  : 4.0.1
-Release  : 11
+Release  : 12
 URL      : http://pypi.debian.net/icalendar/icalendar-4.0.1.tar.gz
 Source0  : http://pypi.debian.net/icalendar/icalendar-4.0.1.tar.gz
 Summary  : iCalendar parser/generator
