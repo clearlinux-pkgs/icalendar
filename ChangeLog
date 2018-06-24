@@ -1,6 +1,15 @@
 Changelog
 =========
 
+4.0.2 (2018-06-20)
+------------------
+
+Bug fixes:
+
+- Update all pypi.python.org URLs to pypi.org
+  [jon.dufresne]
+
+
 4.0.1 (2018-02-11)
 ------------------
 
