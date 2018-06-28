@@ -4,7 +4,7 @@
 #
 Name     : icalendar
 Version  : 4.0.2
-Release  : 14
+Release  : 15
 URL      : http://pypi.debian.net/icalendar/icalendar-4.0.2.tar.gz
 Source0  : http://pypi.debian.net/icalendar/icalendar-4.0.2.tar.gz
 Summary  : iCalendar parser/generator
@@ -22,7 +22,6 @@ BuildRequires : pluggy
 BuildRequires : py-python
 BuildRequires : pytest
 BuildRequires : python-dateutil
-BuildRequires : python-dev
 BuildRequires : python3-dev
 BuildRequires : pytz
 BuildRequires : setuptools
@@ -81,7 +80,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1529869494
+export SOURCE_DATE_EPOCH=1530210480
 python3 setup.py build -b py3
 
 %check
