@@ -4,7 +4,7 @@
 #
 Name     : icalendar
 Version  : 4.0.3
-Release  : 23
+Release  : 24
 URL      : https://files.pythonhosted.org/packages/5d/92/647cd84120b8d9c2ac9a03ccff21bb44c267c993b88881a32c1837d250bd/icalendar-4.0.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5d/92/647cd84120b8d9c2ac9a03ccff21bb44c267c993b88881a32c1837d250bd/icalendar-4.0.3.tar.gz
 Summary  : iCalendar parser/generator
