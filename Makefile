@@ -1,5 +1,5 @@
 PKG_NAME := icalendar
-URL = https://files.pythonhosted.org/packages/4b/54/f9af7a0a11610e236d372659e4bf8775bd6dd1eb56863fa01c25fba84612/icalendar-4.0.5.tar.gz
+URL = https://files.pythonhosted.org/packages/e4/dd/67c363b99c4384c66bcf94c1abf9b749dd4e809a44bd6db575ec8e22be89/icalendar-4.0.6.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
